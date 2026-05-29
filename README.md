@@ -97,7 +97,7 @@ I'm passionate about applying AI to solve complex, high-impact problems in manuf
 
 ## 📂 Featured Projects
 
-### 🧥 [Agentic AI for Garment Hole Detection](https://github.com/BinuShefieldShifani/AI-MLProjects) `2024`
+### 🧥 [Agentic AI for Garment Hole Detection](https://github.com/BinuShefieldShifani/AI-MLProjects) `2025`
 Dual-agent defect detection system combining **YOLOv11 + RT-DETR-L + TTA** and **YOLO11m + CLIP** for high-accuracy identification of rare fabric defects. Showcases agentic reasoning for industrial quality control.
 
 ### 🌊 [Semantic Segmentation of Marine Plastics](https://github.com/BinuShefieldShifani/MarineDebris) `2025`
