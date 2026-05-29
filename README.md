@@ -137,15 +137,6 @@ Coursework and research notebooks covering computer vision, CNNs, and deep learn
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BinuShefieldShifani&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinuShefieldShifani&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
-
 <p align="center">
   <i>"Building intelligent systems that bridge research and real-world impact."</i><br/><br/>
   💬 Open to research collaborations, AI/ML opportunities, and conversations about sustainable tech.
